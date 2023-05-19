@@ -1,6 +1,7 @@
 # `riscv-rust-quickstart`
 
 This is just a quick example based on the riscv-rust-quickstart template, for my hifive1 board. I'm running rust on FreeBSD.
+Note: the main program just runs a loop. If you want something with a bit of feedback, try the leds_blink example.
 
 > A template for building Rust applications for HiFive1 boards
 
